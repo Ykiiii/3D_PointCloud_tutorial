@@ -10,7 +10,7 @@ import cv2
 
 
 if __name__ =="__main__":
-    datadir = "E:\program\GitCode\\3D_PointCloud\PointCloud\\rectangle.ply"
+    datadir = "E:\\program\\GitCode\\3D_PointCloud\\PointCloud\\rectangle.ply"
     pcd = o3d.io.read_point_cloud(datadir)
     # print(pcd)
     hull, idx = pcd.compute_convex_hull()
