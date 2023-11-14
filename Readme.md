@@ -1,6 +1,6 @@
 # open3d学习
 
-"LearnOpen3d.ipynb" —— 跑一遍官方教程，也方便自己用
+"LearnOpen3d.ipynb" —— 跑一遍官方教程，也方便自己用(更改了教程中是缺失与笔误)
 
 "open3d_example.py" —— 官方github中的例程
 
@@ -13,63 +13,63 @@ mesh参考学习地址：https://blog.csdn.net/u014072827/article/details/112399
 
 ## visualization.draw可视化弹窗快捷键
 
-[Open3D INFO]   -- Mouse view control --
+-- Mouse view control --
 
-[Open3D INFO]     Left button + drag         : Rotate.
+  Left button + drag         : Rotate.
 
-[Open3D INFO]     Ctrl + left button + drag  : Translate.
+  Ctrl + left button + drag  : Translate.
 
-[Open3D INFO]     Wheel button + drag        : Translate.
+  Wheel button + drag        : Translate.
 
-[Open3D INFO]     Shift + left button + drag : Roll.
+  Shift + left button + drag : Roll.
 
-[Open3D INFO]     Wheel                      : Zoom in/out.
-
-[Open3D INFO] 
-
-[Open3D INFO]   -- Keyboard view control --
-
-[Open3D INFO]     [/]          : Increase/decrease field of view.
-
-[Open3D INFO]     R            : Reset view point.
-
-[Open3D INFO]     Ctrl/Cmd + C : Copy current view status into the clipboard.
-
-[Open3D INFO]     Ctrl/Cmd + V : Paste view status from clipboard.
+  Wheel                      : Zoom in/out.
 
 [Open3D INFO] 
 
-[Open3D INFO]   -- General control --
+-- Keyboard view control --
 
-[Open3D INFO]     Q, Esc       : Exit window.
+  [/]          : Increase/decrease field of view.
 
-[Open3D INFO]     H            : Print help message.
+  R            : Reset view point.
 
-[Open3D INFO]     P, PrtScn    : Take a screen capture.
+  Ctrl/Cmd + C : Copy current view status into the clipboard.
 
-[Open3D INFO]     D            : Take a depth capture.
-
-[Open3D INFO]     O            : Take a capture of current rendering settings.
-
-[Open3D INFO]     Alt + Enter  : Toggle between full screen and windowed mode.
+  Ctrl/Cmd + V : Paste view status from clipboard.
 
 [Open3D INFO] 
 
-[Open3D INFO]   -- Render mode control --
+-- General control --
 
-[Open3D INFO]     L            : Turn on/off lighting.
+  Q, Esc       : Exit window.
 
-[Open3D INFO]     +/-          : Increase/decrease point size.
+  H            : Print help message.
 
-[Open3D INFO]     Ctrl + +/-   : Increase/decrease width of geometry::LineSet.
+  P, PrtScn    : Take a screen capture.
+
+  D            : Take a depth capture.
+
+  O            : Take a capture of current rendering settings.
+
+  Alt + Enter  : Toggle between full screen and windowed mode.
+
+[Open3D INFO] 
+
+-- Render mode control --
+
+  L            : Turn on/off lighting.
+
+  +/-          : Increase/decrease point size.
+
+  Ctrl + +/-   : Increase/decrease width of geometry::LineSet.
 
 ...
 
-[Open3D INFO]     2            : SUMMER color map.
+  2            : SUMMER color map.
 
-[Open3D INFO]     3            : WINTER color map.
+  3            : WINTER color map.
 
-[Open3D INFO]     4            : HOT color map.
+  4            : HOT color map.
 
 [Open3D INFO] 
 
