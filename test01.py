@@ -1,5 +1,10 @@
 # import open3d as o3d
-
+# import numpy as np
+# if __name__ =="__main__":
+#     points = np.random.rand(10000, 3)
+#     pcd = o3d.geometry.PointCloud()
+#     pcd.points = o3d.utility.Vector3dVector(points)
+#     o3d.visualization.draw_geometries([pcd])
 # if __name__ =="__main__":
 #     datadir = "J:\Document\Coding\PointCloud\cloudRgb_00000.ply"
 #     pcd = o3d.io.read_point_cloud(datadir)
@@ -7,7 +12,6 @@
 
 import open3d as o3d
 import cv2
-
 
 if __name__ =="__main__":
     datadir = "E:\\program\\GitCode\\3D_PointCloud\\PointCloud\\rectangle.ply"
