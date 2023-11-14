@@ -1,9 +1,13 @@
 # open3d学习
-"LearnOpen3d.ipynb" —— 跑一遍官方教程
+"LearnOpen3d.ipynb" —— 跑一遍官方教程，也方便自己用
+"open3d_example.py" —— 官方github中的例程
+
 官方文档地址：http://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html
 中文文档地址：http://cvtutorials.com/#/open3D/open3Dpy_c1?id=_11-%e5%9f%ba%e7%a1%80
+mesh参考学习地址：https://blog.csdn.net/u014072827/article/details/112399050
 
-## draw可视化弹窗快捷键
+
+## visualization.draw可视化弹窗快捷键
 [Open3D INFO]   -- Mouse view control --
 [Open3D INFO]     Left button + drag         : Rotate.
 [Open3D INFO]     Ctrl + left button + drag  : Translate.
@@ -30,7 +34,28 @@
 [Open3D INFO]     +/-          : Increase/decrease point size.
 [Open3D INFO]     Ctrl + +/-   : Increase/decrease width of geometry::LineSet.
 ...
-[Open3D INFO]                    2 - SUMMER color map.
-[Open3D INFO]                    3 - WINTER color map.
-[Open3D INFO]                    4 - HOT color map.
+[Open3D INFO]     2            : SUMMER color map.
+[Open3D INFO]     3            : WINTER color map.
+[Open3D INFO]     4            : HOT color map.
 [Open3D INFO] 
+
+
+{
+	"class_name" : "ViewTrajectory",
+	"interval" : 29,
+	"is_loop" : false,
+	"trajectory" : 
+	[
+		{
+			"boundingbox_max" : [ 1.0, 1.0, 1.0 ],
+			"boundingbox_min" : [ 0.0, 0.0, 0.0 ],
+			"field_of_view" : 60.0,
+			"front" : [ 0.90778491232599645, -0.19581118385062998, 0.3709238914282792 ],
+			"lookat" : [ 0.5, 0.5, 0.5 ],
+			"up" : [ 0.39516577563580058, 0.10281373447758221, -0.91283807204176659 ],
+			"zoom" : 1.2000000000000004
+		}
+	],
+	"version_major" : 1,
+	"version_minor" : 0
+}
