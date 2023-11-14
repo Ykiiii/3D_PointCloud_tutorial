@@ -1,6 +1,6 @@
 # open3d学习
 
-"LearnOpen3d.ipynb" —— 跑一遍官方教程，也方便自己用(更改了教程中是缺失与笔误)
+"LearnOpen3d.ipynb" —— 跑一遍官方教程，也方便自己用(更改了教程中的缺失与笔误)
 
 "open3d_example.py" —— 官方github中的例程
 
