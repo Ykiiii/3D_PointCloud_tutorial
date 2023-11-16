@@ -10,7 +10,8 @@
 
 中文文档地址：http://cvtutorials.com/#/open3D/open3Dpy_c1?id=_11-%e5%9f%ba%e7%a1%80
 
-mesh参考学习地址：https://blog.csdn.net/u014072827/article/details/112399050
+参考学习地址：https://blog.csdn.net/u014072827/category_8367972.html
+
 
 
 ## visualization.draw可视化弹窗快捷键
