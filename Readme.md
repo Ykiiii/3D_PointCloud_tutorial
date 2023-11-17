@@ -4,6 +4,7 @@
 
 - "Open3dTutorial_Geometry.ipynb" —— 几何操作
 - "Open3dTutorial_Pipelines.ipynb" —— pipeline
+- "Open3dTutorial_Visualization.ipynb" —— 可视化方法
 - "open3d_example.py" —— 官方github中的例程之一，有些实用的函数
 
 官方文档地址：http://www.open3d.org/docs/release/tutorial/geometry/pointcloud.html
