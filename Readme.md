@@ -48,7 +48,6 @@
 |:-:|:-:|
 |L|Turn on/off lighting.|
 |+/-|Increase/decrease point size.|
-|L|Turn on/off lighting.|
 |Ctrl + +/-|IIncrease/decrease width of geometry::LineSet.|
 |||
 |2|SUMMER color map.|
